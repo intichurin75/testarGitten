@@ -9,8 +9,8 @@ class Program
 
         int nr1 = 12;
         int nr2 = 5;
-        int summa = nr + nr2;
-        Console.WriteLine($"Summan är : {summa})
+        int summa = nr1 + nr2;
+        Console.WriteLine($"Summa är: {summa}");
         
     }
 }
